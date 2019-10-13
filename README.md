@@ -37,7 +37,7 @@ Redash supports more than 35 [data sources](https://redash.io/help/data-sources/
 ## Reporting Bugs and Contributing Code
 
 * Want to report a bug or request a feature? Please open [an issue](https://github.com/getredash/redash/issues/new).
-* Want to help us build **_Redash_**? Fork the project, edit in a [dev environment](https://redash.io/help-onpremise/dev/guide.html), and make a pull request. We need all the help we can get!
+* Want to help us build **_Redash_**? Fork the project, edit in a [dev environment](https://redash.io/help-onpremise/dev/guide.html), and make a pull request. We need all the help we can get!Thanks.
 
 ## Security
 
